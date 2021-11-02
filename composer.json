@@ -1,0 +1,6 @@
+{
+    "require": {
+        "stormiix/php-eyed3": "dev-master",
+        "alquran/api-client": "^1.2"
+    }
+}
